@@ -10,3 +10,6 @@ Original file is located at
 def sum(i,j):
   return i+j
 
+def adjust(i):
+    return i+1
+
